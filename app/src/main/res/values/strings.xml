@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LAT3UTS_AKBIF2_10116089_MamanHeryanto</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_daily">Daily Activity</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_favo">Favorite</string>
+    <string name="nav_prof">Profile</string>
+
+    <string name="about_me">
+        Perkenalkan nama saya Maman Heryanto saya lahir dari 2 bersaudara
+        yang lahir dari rahim seorang ibu bukan dari seorang bapa
+        dan saya hanya seorang MANUSIA yang sedang menempuh kuliah S1
+        di UNIVERSITAS KOMPUTER INDONESIA yang berada di Bandung
+        \n:)
+    </string>
+    <string name="hobby">: Bermain Game dan Ngoding</string>
+    <string name="makes">: Paling Suka Cumi Cumi</string>
+    <string name="mikes">: Air Putih dan Teh Manis</string>
+    <string name="cita">: Sukses dan Membahagiakan \n Orang Tua</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="h_name">Maman Heryanto</string>
+    <string name="h_umur">Umur : 20 Tahun</string>
+    <string name="h_jur">Jurusan : Teknik Informatika</string>
+    <string name="h_jk">Jenis Kelamin : Laki-Laki</string>
+    <string name="l_daftar">Sudah Punya Akun ? <b>DAFTAR</b></string>
+
+    <string name="design">Design \nBy \n<b>Maman Heryanto</b></string>
+    <string name="interest">INTEREST</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="hobbyp">Hobby</string>
+    <string name="makesp">Makes</string>
+    <string name="mikesp">Mikes</string>
+    <string name="interestp">Interest</string>
+    <string name="interestpp">:</string>
+    <string name="maman">10116089</string>
+    <string name="cita_citap">Cita Cita</string>
+    <string name="my_gallery">My Gallery</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="title_activity_map">MapActivity</string>
+
+
+</resources>
